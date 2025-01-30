@@ -2,7 +2,7 @@
 
 🎮 **Lead Game Developer at Afk Games Studio**  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Lead+Game+Developer;Unity+Game+Developer;Frontend+Developer;Afk+Games+Studio)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Lead+Game+Developer;Unity+Game+Developer;Frontend+Developer;Web+Developer)
 
 ---
 
