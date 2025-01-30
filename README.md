@@ -10,7 +10,7 @@
 
 **Afk Games Studio**, 2024 yılında **TACEV Teknoloji** bünyesinde kurulmuş bir **Oyun Geliştirme Girişimi**dir.  
 
-Hedefimiz, yetenekli gençlerimizi aramıza alarak **deneyim kazanmalarını sağlamak** ve oyun sektörüne **nitelikli bireyler kazandırmaktır**.  
+Hedefim, yetenekli gençlerimizi aramıza alarak **deneyim kazanmalarını sağlamak** ve oyun sektörüne **nitelikli bireyler kazandırmaktır**.  
 
 Gençlerle birlikte oyunlar geliştiriyor, onlara rehberlik ediyor ve etkinlikler düzenliyorum.
 
