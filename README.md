@@ -45,7 +45,7 @@ Gençlerle birlikte oyunlar geliştiriyor, onlara rehberlik ediyor ve etkinlikle
     <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://saffanseyidoglu.com">
-    <img src="https://img.shields.io/badge/%20Kişisel%20Web%20Sitesi-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Kişisel Web Sitesi">
+    <img src="https://img.shields.io/badge/%20Kişisel%20Web%20Sitem-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Kişisel Web Sitem">
   </a>
   <a href="https://afkgamesstudio.com">
     <img src="https://img.shields.io/badge/%20Afk%20Games%20Studio-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Afk Games Studio">
