@@ -1,6 +1,6 @@
 ### 👋 Merhaba, ben **Saffan Seyidoğlu**!
 
-🎮 **Lead Game Developer at Afk Games Studio**  
+🎮 **Lead Game Developer**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Lead+Game+Developer;Unity+Game+Developer;Frontend+Developer;Web+Developer)
 
@@ -8,11 +8,7 @@
 
 ## 🏢 Hakkımda
 
-**Afk Games Studio**, 2024 yılında **TACEV Teknoloji** bünyesinde kurulmuş bir **Oyun Geliştirme Girişimi**dir.  
-
-Hedefim, yetenekli gençlerimizi aramıza alarak **deneyim kazanmalarını sağlamak** ve oyun sektörüne **nitelikli bireyler kazandırmaktır**.  
-
-Gençlerle birlikte oyunlar geliştiriyor, onlara rehberlik ediyor ve etkinlikler düzenliyorum.
+Oyun geliştirici ve Frontend Web geliştiriciyim. Yeni oyunlar geliştiriyor ve yönetiyorum. Hakkımda daha fazla bilgi için web sitemi ziyaret edebilirsiniz.
 
 ---
 
