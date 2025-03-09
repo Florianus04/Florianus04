@@ -18,14 +18,16 @@ Oyun geliştirici ve Frontend Web geliştiriciyim. Yeni oyunlar geliştiriyor ve
 
 - 🎮 **Unity** & **C#**
 
-### 🔹 Yazılım & Diğer
+### 🔹 Programlama Dilleri
 
 - 💻 **C#, HTML, CSS, JavaScript**
 
+### 🔹 Liderlik
+
+- 💻 **Ekip yönetimi, Proje yönetimi**
 ---
 
 ## 📊 GitHub İstatistikleri
-![Florianus04 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Florianus04&show_icons=true&theme=radical)
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Florianus04&layout=compact&theme=radical)
 
