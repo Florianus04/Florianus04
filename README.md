@@ -1,6 +1,6 @@
 ### 👋 Merhaba, ben **Saffan Seyidoğlu**!
 
-![Cool GIF](https://raw.githubusercontent.com/Florianus04/MyGifs/main/matrix.gif)
+![Cool GIF](https://github.com/Florianus04/MyGifs/blob/main/matrix.gif)
 
 🎮 **Lead Game Developer**  
 
