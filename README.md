@@ -2,9 +2,9 @@
 
 ![Cool GIF](https://github.com/Florianus04/MyGifs/blob/main/matrix.gif)
 
-🎮 **Lead Game Developer**  
+🎮 **Unity Game Developer**  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Lead+Game+Developer;Unity+Game+Developer;Frontend+Developer;Web+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Frontend+Web+Developer)
 
 ---
 
